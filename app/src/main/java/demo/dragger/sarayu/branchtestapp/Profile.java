@@ -7,8 +7,8 @@ public class Profile {
     }
     public void test2(){System.out.println("test1");
     }
-    public void test4(){
-        {
-            System.out.println("test4");
+    public void test4() {
+
+        System.out.println("test4");
     }
 }
